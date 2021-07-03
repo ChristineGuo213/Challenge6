@@ -40,13 +40,13 @@ san_francisco_housing.ipynb
 
 Attached screenshots below show the different plots
 
-![zoomed_housing_units_by_year](SanFran_Housing_Markets/Images/zoomed_housing_units_by_year.PNG)
+![zoomed_housing_units_by_year](SanFran_Housing_Markets/Images2/zoomed_housing_units_by_year.PNG)
 
-![avg_sale_px_sq_foot_gross_rent](SanFran_Housing_Markets/Images/avg_sale_px_sq_foot_gross_rent.PNG)  
+![avg_sale_px_sq_foot_gross_rent](SanFran_Housing_Markets/Images2/avg_sale_px_sq_foot_gross_rent.PNG)  
 
-![pricing_info_by_neighborhood](Challenge6/SanFran_Housing_Markets/Images/pricing_info_by_neighborhood.PNG)
+![pricing_info_by_neighborhood](Challenge6/SanFran_Housing_Markets/Images2/pricing_info_by_neighborhood.PNG)
 
-![mapbox_plot](Christine/Challenge6/SanFran_Housing_Markets/Images/mapbox_plot.PNG)
+![mapbox_plot](Christine/Challenge6/SanFran_Housing_Markets/Images2/mapbox_plot.PNG)
 
 
 ---
