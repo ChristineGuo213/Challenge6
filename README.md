@@ -40,13 +40,13 @@ san_francisco_housing.ipynb
 
 Attached screenshots below show the different plots
 
-![zoomed-housing-units-by-year](C://Users/guoyu/OneDrive/Desktop/Christine/Challenge6/SanFran_Housing_Markets/Images/zoomed-housing-units-by-year.PNG)
+![zoomed-housing-units-by-year](.OneDrive/Desktop/Christine/Challenge6/SanFran_Housing_Markets/Images/zoomed-housing-units-by-year.PNG)
 
-![avg-sale-px-sq-foot-gross-rent](C://Users/guoyu/OneDrive/Desktop/Christine/Challenge6/SanFran_Housing_Markets/Images/avg-sale-px-sq-foot-gross-rent.PNG)  
+![avg-sale-px-sq-foot-gross-rent](/OneDrive/Desktop/Christine/Challenge6/SanFran_Housing_Markets/Images/avg-sale-px-sq-foot-gross-rent.PNG)  
 
-![pricing-info-by-neighborhood](C://Users/guoyu/OneDrive/Desktop/Christine/Challenge6/SanFran_Housing_Markets/Images/pricing-info-by-neighborhood.PNG)
+![pricing-info-by-neighborhood](./guoyu/OneDrive/Desktop/Christine/Challenge6/SanFran_Housing_Markets/Images/pricing-info-by-neighborhood.PNG)
 
-![mapbox-plot](C://Users/guoyu/OneDrive/Desktop/Christine/Challenge6/SanFran_Housing_Markets/Images/mapbox-plot.PNG)
+![mapbox-plot](C/Users/guoyu/OneDrive/Desktop/Christine/Challenge6/SanFran_Housing_Markets/Images/mapbox-plot.PNG)
 
 
 ---
